@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallow word !, I'm Fajar Rasyid Asshiddiq 👋
 
 <!--
 **fajarRA526/fajarRA526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Currently I am a student at **Meta Polytechnic**
+- 🌱 I’m currently learning **Laravel** Framework
+-🤗🤗🤗🤗
+
+
+![happy bertday](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhjNzB3cmYxNDluM2Y2Ym90YTkxendwa2ZpemlqeGVnc2V0aTM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif)
+
