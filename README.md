@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ##### My Github States
-[![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=radical)
+![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=shadow_blue)
 
 
