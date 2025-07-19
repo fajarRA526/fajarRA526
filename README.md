@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 
-![happy bertday](img/mario-pixel-art.gif)
+![happy bertday](img/mario2.gif)
 
