@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Currently I am a student at **Meta Polytechnic**
 - 🌱 I’m currently learning **Laravel** Framework
-
--🤗🤗🤗🤗
+- 🤗🤗🤗🤗
 
 
 ![happy bertday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU5YndkdnQ4ZGZ3aGZ5d3R4dmZhcXM2NXlsMGR1dnZvN2ZkcTRzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv1RNuvWMjQ10bzExO/giphy.gif)
