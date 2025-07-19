@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ![happy bertday](img/mario2.gif)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+
+  
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
+
 
 ##### Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,postman,mysql,figma&theme=light&perline=3)](https://skillicons.dev)
