@@ -27,15 +27,11 @@ Here are some ideas to get you started:
 
 
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+  
 
 
 ##### Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,postman,mysql,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,postman,mysql,git,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 
 
@@ -44,7 +40,8 @@ Here are some ideas to get you started:
 
 
 ##### Connect With Me
-![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fajar-rasyid-244a4b264/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 ##### My Github States
 ![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=transparent)
