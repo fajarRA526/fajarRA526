@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 Currently I am a student at **Meta Polytechnic**
 - 🌱 I’m currently learning **Laravel** Framework
-- 
+- 🤗🤗🤗🤗🤗🤗🤗
+
 
 
 ![happy bertday](img/zip.gif)
