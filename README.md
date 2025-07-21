@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 ![happy bertday](img/mario2.gif)
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
   
