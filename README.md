@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 ![happy bertday](img/mario2.gif)
 
-## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/fajarRA526/fajarRA526/blob/output/github-contribution-grid-snake.svg)
-## 🎮 Play Snake Game
-[Klik di sini untuk main →](https://USERNAME.github.io/snake-game/)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
 
