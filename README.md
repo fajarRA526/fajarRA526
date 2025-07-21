@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fajarRA526/fajarRA526/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
