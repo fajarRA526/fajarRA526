@@ -1,4 +1,4 @@
-## Hallow word !, I'm furqon👋
+## Hallow word !, I'm fajar👋
 
 ![fajar rasyid](img/github.png)
 
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 
 ##### My Github States
-![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarRA526&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarRA526&layout=donut&bg_color=00000000)]
+
 
 
