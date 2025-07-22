@@ -47,11 +47,12 @@ Here are some ideas to get you started:
 
 
 ##### Connect With Me
-![https://instagram.com/rayofdawn_122](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fajar-rasyid-244a4b264/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayofdawn_122)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-rasyid-244a4b264/)
 
 
 ##### My Github States
-![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarRA526&layout=donut&bg_color=00000000)]
+![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarRA526&show_icons=true&theme=transparent&cache_seconds=3600) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarRA526&layout=donut&bg_color=00000000&cache_seconds=3600)](https://github.com/fajarRA526)
+
 
 
 
