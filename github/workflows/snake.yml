@@ -1,11 +1,11 @@
 - name: Generate snake.svg
   uses: Platane/snk@master
   with:
-    github_user_name: USERNAME
+    github_user_name: fajarRA526
     outputs: |
       dist/github-contribution-grid-snake.svg
     svg_parameters: |
-      --background transparent
+      --background black
 
 
 on:
