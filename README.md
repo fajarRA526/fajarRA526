@@ -1,6 +1,6 @@
 ## Hallow word !, I'm fajar👋
 
-![fajar rasyid](img/githubheader1.png)
+![fajar rasyid](img/github-header-image(1).png)
 
 <!--
 **fajarRA526/fajarRA526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
